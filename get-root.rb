@@ -77,7 +77,7 @@ end
 #     puts "#{k}: #{v}"
 # end
 
-puts "==>i"
+# puts "==>i"
 i.each do |k,v|
     puts "#{k}: #{v}" if i[k].length > 1
     # puts i[k].length
